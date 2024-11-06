@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
 	<br>
-  <img  height="130em"  width="15%" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" />
+  <img  height="130em"  width="15%" src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_printfn.png" />
     <br>
 </div>
 <p align="center">
